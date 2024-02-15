@@ -91,7 +91,7 @@ for image in images:
         #print(has_alt_attribute(image))
         #print(str(image))
         #print(type(image))
-        print(len(str(image['alt'])))
+        #print(len(str(image['alt'])))
 
 
         if 'src' in str(image):
